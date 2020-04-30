@@ -17,7 +17,7 @@ so it is important to showcase what you know.
 
 Updating your Rails portfolio project is a great way to do precisely this and show
 that you have a variety of experiences. Below are some suggestions for
-what you can do to upgrade your CLI project.
+what you can do to upgrade your Rails project.
 
 ## Refactor
 
