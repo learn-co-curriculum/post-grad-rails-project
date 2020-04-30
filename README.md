@@ -3,7 +3,7 @@
 ## Introduction
 
 You've been working with JavaScript for the second half of the Software
-Engineering course. At this point, you may feel more comfortable writing in JS
+Engineering course. At this point, you may feel more comfortable writing in JS,
 having completed your final project in React. Don't forget about Ruby and Rails,
 though!
 
@@ -11,12 +11,12 @@ Some of the positive feedback we've received from employers that have hired
 Flatiron graduates includes the fact that students are starting out with an
 understanding of both Ruby and JavaScript. Many concepts are transferrable from
 one language to another - showing that you know two languages is a good
-indication that you are able to adapt what you know to a third languages.
+indication that you can adapt what you know to a third language.
 Knowing both Ruby and JavaScript can also open up more employment opportunities,
 so it is important to showcase what you know.
 
-Updating your Rails portfolio project is a great way to do exactly this and show
-that you have a variety of experience. Below are some suggestions for
+Updating your Rails portfolio project is a great way to do precisely this and show
+that you have a variety of experiences. Below are some suggestions for
 what you can do to upgrade your CLI project.
 
 ## Refactor
@@ -65,11 +65,11 @@ suggestions specific to Rails:
   to build out visual content that is shared across your entire app like website
   navigation.
 - If your app is hosted live, what content is needed to ensure a visitor has a
-  good understanding of how it works. At minimum, this might mean adding an
+  good understanding of how it works. At a minimum, this might mean adding an
   'About' page. If your app revolves around a process that requires multiple
-  steps, are all of those steps obvious enough? One way to test this is to share
+  steps, are all of those steps clear enough? One way to test this is to share
   your project with a non-technical friend. Can they figure out how to navigate
-  it without help? Where do they get stuck and what can be added to get them
+  it without help? Where do they get stuck, and what can be added to get them
   unstuck?
 
 In addition to these, think about any features you weren't able to implement
@@ -80,7 +80,7 @@ understanding of this?
 ## Deploy to Heroku
 
 The best way to showcase your Rails project is to deploy it online! Sometimes,
-potential emloyers may utilize a non-technical recruiter to find candidates to
+potential employers may utilize a non-technical recruiter to find candidates to
 hire. These recruiters won't be looking at your code on GitHub. By deploying
 your project, you open up the opportunity for them to explore what you've built.
 Even if they don't know the technical requirements, they'll be able to play with
@@ -109,21 +109,21 @@ that many students have utilized over the years.
 ## Record a Demo Video
 
 When your project is fully functioning and looking great, consider recording a
-demonstration of how your app functions. Recording a demo allows you to showcase
+demonstration of how your app works. Recording a demo allows you to showcase
 features your particularly proud of. It also means you can provide context to
-your application that may not be apparent from just going to the application
+your application that may not be apparent from just looking at the application
 itself.
 
 A demo recording should go through the essential parts of your application. One
 bonus that comes from doing this - during interviews, you will often need to
 talk about your projects. If you have a project listed on your resume, assume
-that you may need to explain what the project is, as well as challenges you
+that you may need to explain what the project is, as well as the challenges you
 faced during development. A demonstration video will force you to practice this
 pitch so you'll be more comfortable when you have to do it live.
 
-Demo recording also act as a good way to introduce yourself. You can use it to
-show off a bit of your personality. It also shows your ability to communicate
-complex topics - a critical skill on all tech related teams.
+A demo recording also acts as an excellent way to introduce yourself. You can
+use it to show off a bit of your personality. It also shows your ability to
+communicate complex topics - a critical skill on all tech related teams.
 
 ## Conclusion
 
@@ -132,7 +132,6 @@ is time well spent. You should know the ins and outs of the projects you are
 using to represent your abilities. You can't always prepare for what questions
 you'll get on an interview, but being comfortable showcasing what you've already
 worked on is a big plus.
-
 
 - [heroku deploy](https://devcenter.heroku.com/articles/getting-started-with-rails5)
 - Record Demo
