@@ -94,12 +94,12 @@ that many students have utilized over the years.
 > **Recommended:** Once you've deployed your project, make sure to do some
 > quality assurance testing:
 >
-> - Click every link. Make sure there are no bad links
+> - **Click every link**. Make sure there are no bad links
 > - Navigate around your app in different ways. If a user does something
 >   slightly unexpected, can your app handle it?
-> - Create multiple users and test your authentication. For instance, what
+> - **Create multiple users and test your authentication**. For instance, what
 >   happens if a user doesn't enter anything for a username or password?
-> - Share the app with some friends and ask them to play around with it. You
+> - **Share the app with some friends and ask them to play around with it**. You
 >   might know how things are supposed to work, but giving your app to someone
 >   else can identify unexpected user behaviors.
 >
@@ -110,7 +110,7 @@ that many students have utilized over the years.
 
 When your project is fully functioning and looking great, consider recording a
 demonstration of how your app works. Recording a demo allows you to showcase
-features your particularly proud of. It also means you can provide context to
+features you're particularly proud of. It also means you can provide context to
 your application that may not be apparent from just looking at the application
 itself.
 
@@ -133,5 +133,5 @@ using to represent your abilities. You can't always prepare for what questions
 you'll get on an interview, but being comfortable showcasing what you've already
 worked on is a big plus.
 
-- [heroku deploy](https://devcenter.heroku.com/articles/getting-started-with-rails5)
-- Record Demo
+[heroku deploy](https://devcenter.heroku.com/articles/getting-started-with-rails5)
+
