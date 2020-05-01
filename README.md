@@ -87,7 +87,7 @@ Even if they don't know the technical requirements, they'll be able to play with
 app features and see how developed they are.
 
 There are a couple of options for deploying Rails projects, but the most common
-way is to use [Heroku](https://www.heroku.com/). Heroku has a free hosting
+way is to use [Heroku](https://www.heroku.com/). Heroku has a free hosting tier
 that many students have utilized over the years.
 [They also provide a detailed tutorial on how to get your Rails app deployed][heroku deploy].
 
