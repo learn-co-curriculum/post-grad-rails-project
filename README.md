@@ -133,5 +133,4 @@ using to represent your abilities. You can't always prepare for what questions
 you'll get on an interview, but being comfortable showcasing what you've already
 worked on is a big plus.
 
-[heroku deploy](https://devcenter.heroku.com/articles/getting-started-with-rails5)
-
+[heroku deploy]: https://devcenter.heroku.com/articles/getting-started-with-rails5
